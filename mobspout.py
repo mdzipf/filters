@@ -1,6 +1,6 @@
 import pymclevel
 
-displayName = "Spawner Box"
+displayName = "Mob Spout"
 
 inputs = (
     ("X offset", 0),
